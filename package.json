@@ -6,9 +6,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "@heroicons/react": "^2.0.16",
+    "@tanstack/react-query": "^4.28.0",
+    "@thirdweb-dev/react": "^3.10.3",
+    "@thirdweb-dev/sdk": "^3.10.3",
+    "@walletconnect/ethereum-provider": "^1.8.0",
+    "ethers": "^5.7.2",
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-spinners": "^0.13.8",
+    "swr": "^2.1.0"
   },
   "devDependencies": {
     "@types/node": "18.11.3",
